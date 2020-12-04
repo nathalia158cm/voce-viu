@@ -59,7 +59,7 @@ function setup()
     fonte = loadFont("data/texto/ROTORcapNeue-Regular.ttf");
     texto = loadStrings("data/texto/dialogos.txt");
     //ENTRADA
-    entrada = loadImage ("data/imagens/menu/entrada.gif");  
+    entrada = loadImage ("data/imagens/menu/Entrada.gif");  
   
     //BANHEIRO
     banheiro_fundo = loadImage("data/imagens/banheiro/banheiro_fundo.gif");
